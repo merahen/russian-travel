@@ -17,5 +17,7 @@
   .place__title {
     max-width: 288px;
     width: calc(100% - 16px*2);
+    font-size: 32px;
+    line-height: 35px;
   }
 }
