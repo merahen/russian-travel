@@ -23,5 +23,6 @@
   .footer {
     display: block;
     padding-top: 64px;
+    max-width: 288px;
   }
 }
